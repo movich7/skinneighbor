@@ -3,7 +3,7 @@
       
     "AdNetwork"               : "ironSource",
     
-    "AdMob_ID"                : "ca-app-pub-3940256099942544~3347511713",
+    "AdMob_ID"                : "pub-3940256099942544",
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
     "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
@@ -19,12 +19,12 @@
     "Applovin_Native"         : "76af75d288a7ada9",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
 
-    "Unity_GameID"            : "3925275",
+    "Unity_GameID"            : "4076527",
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
     "Unity_RewardAd"          : "Rewarded_Android",
 
-    "IronSourceKey"           : "100cf7fb9"
+    "IronSourceKey"           : "1767d8925"
   },
   
   "Maps": [
