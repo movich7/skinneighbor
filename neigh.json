@@ -9,22 +9,22 @@
     "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
     "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
-    "Facebook_RewardAd"       : "692961278482629_857106118734810",
+    "Facebook_Banner"         : "xxxx",
+    "Facebook_InterstitialAd" : "xxx",
+    "Facebook_Native"         : "xxx",
+    "Facebook_RewardAd"       : "xxx",
     
-    "Applovin_Banner"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
-    "Applovin_Native"         : "76af75d288a7ada9",
-    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Banner"         : "xxxx",
+    "Applovin_InterstitialAd" : "xxxxxx",
+    "Applovin_Native"         : "xxxxx",
+    "Applovin_RewardAd"       : "xxxxxxx",
 
-    "Unity_GameID"            : "4076527",
+    "Unity_GameID"            : "5316776",
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
     "Unity_RewardAd"          : "Rewarded_Android",
 
-    "IronSourceKey"           : "100cf7fb9"
+    "IronSourceKey"           : "192996fc5"
   },
   
   "Maps": [
