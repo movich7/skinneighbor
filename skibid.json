@@ -19,12 +19,12 @@
     "Applovin_Native"         : "xxxxx",
     "Applovin_RewardAd"       : "xxxxxxx",
 
-    "Unity_GameID"            : "5316776",
+    "Unity_GameID"            : "",
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
     "Unity_RewardAd"          : "Rewarded_Android",
 
-    "IronSourceKey"           : "192996fc5"
+    "IronSourceKey"           : ""
   },
   
   "Maps": [
